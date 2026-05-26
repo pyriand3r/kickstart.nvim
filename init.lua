@@ -396,7 +396,7 @@ do
   -- Like many other themes, this one has different styles, and you could load
   -- any other, such as 'tokyonight-storm', 'tokyonight-moon', or 'tokyonight-day'.
   -- catppuccin-nvim vaules: catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
-  vim.cmd.colorscheme 'catppuccin--macchiato'
+  vim.cmd.colorscheme 'catppuccin-macchiato'
 
   -- Highlight todo, notes, etc in comments
   vim.pack.add { gh 'folke/todo-comments.nvim' }
